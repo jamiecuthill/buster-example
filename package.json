@@ -1,0 +1,10 @@
+{
+  "name": "buster-example",
+  "description": "Demo project for buster-amd and buster-istanbul",
+  "version": "0.1.0",
+  "dependencies": {
+    "buster": ">=0.7.13",
+    "buster-amd": "*",
+    "buster-istanbul": "*"
+  }
+}
